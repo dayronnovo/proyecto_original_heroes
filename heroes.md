@@ -7,5 +7,4 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Antonio Recio
 * Enrrique Pastor
