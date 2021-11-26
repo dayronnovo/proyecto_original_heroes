@@ -8,4 +8,3 @@
 * Robin
 * Volcán Negro
 * Enrrique Pastor
-* Raquel Villanueva
